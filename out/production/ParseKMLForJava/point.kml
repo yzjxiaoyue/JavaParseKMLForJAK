@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Placemark>
+		<name>中国云南省昆明市官渡区鸣泉村立交</name>
+		<description><![CDATA[::<br/>{"名称":"中国云南省昆明市官渡区鸣泉村立交","纬经度":"25,102.780746,1903.42","照片":"","时间":"2018-10-31 16:34:33","标记样式":0,"分类":0,"是否收藏":0,"描述":""}]]></description>
+		<Point>
+		<coordinates>102.780746,25,1903.42</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>中国云南省昆明市官渡区鸣泉村立交</name>
+		<description><![CDATA[::<a href="中国云南省昆明市官渡区鸣泉村立交_24.985893-102.780567-0.0_1_20181031162101.jpg" target="_balnk"><img src="中国云南省昆明市官渡区鸣泉村立交_24.985893-102.780567-0.0_1_20181031162101.jpg" width="300"/></a><br/>{"名称":"中国云南省昆明市官渡区鸣泉村立交","纬经度":"24.985893,102.780567,0.0","照片":"中国云南省昆明市官渡区鸣泉村立交_24.985893-102.780567-0.0_1_20181031162101.jpg;","时间":"2018-10-31 16:21:44","标记样式":0,"分类":0,"是否收藏":0,"描述":"第一个点"}]]></description>
+		<Point>
+		<coordinates>102.780567,24.985893,0.0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>中国云南省昆明市官渡区云大西路</name>
+		<description><![CDATA[::<a href="IMG_20181023_213354.jpg" target="_balnk"><img src="IMG_20181023_213354.jpg" width="300"/></a><br/>{"名称":"中国云南省昆明市官渡区云大西路","纬经度":"24.984966,102.779398,0.0","照片":"IMG_20181023_213354.jpg;","时间":"2018-10-25 14:47:47","标记样式":0,"分类":0,"是否收藏":0,"描述":""}]]></description>
+		<Point>
+		<coordinates>102.779398,24.984966,0.0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
